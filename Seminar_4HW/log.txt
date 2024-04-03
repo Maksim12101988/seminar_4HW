@@ -1,0 +1,20 @@
+2024-04-02 15:35:18 INFO ====== WebDriver manager ======
+2024-04-02 15:35:19 INFO Get LATEST chromedriver version for google-chrome
+2024-04-02 15:35:19 INFO Get LATEST chromedriver version for google-chrome
+2024-04-02 15:35:19 INFO Driver [C:\Users\ezhov\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-02 15:35:21 INFO Test 1 Starting
+2024-04-02 15:35:21 INFO Send test to element login form
+2024-04-02 15:35:21 INFO Send test to element pasword form
+2024-04-02 15:35:22 INFO Test 2 Starting
+2024-04-02 15:35:22 INFO Send Testovich13 to element login form
+2024-04-02 15:35:22 INFO Send 41502dcd87 to element pasword form
+2024-04-02 15:35:24 INFO Test3 Stsrting
+2024-04-02 15:35:24 INFO Send NEW POST to element title form
+2024-04-02 15:35:24 INFO Send SELENIUM HERE! to element description form
+2024-04-02 15:35:24 INFO Send THIS IS CONTENT BY SELENIUM! to element content form
+2024-04-02 15:35:27 INFO Test Contact_us Starting
+2024-04-02 15:35:27 INFO Send Testov to element contact name form
+2024-04-02 15:35:28 INFO Send ezhov@isd.su to element contact email form
+2024-04-02 15:35:28 INFO Send Hello World! to element contact content form
+2024-04-02 15:35:29 INFO Get alert message
+2024-04-02 15:35:29 INFO Alert message is Form successfully submitted
